@@ -1,0 +1,12 @@
+# Raw downloads (Yahoo, SEC EDGAR, Ken French) and run outputs: never commit
+data_momentum/
+outputs_v*/
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
